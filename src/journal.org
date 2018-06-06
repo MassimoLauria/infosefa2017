@@ -42,7 +42,7 @@ esercitarvi sono:
   
   Slide: ([[file:docs/lab11.pdf][schermo]]|[[file:docs/lab11-print.pdf][stampa]])
 
-* <2017-12-15 Fri> Lezione 21 - SQL - Elementi più avanzato
+* <2017-12-15 Fri> Lezione 21 - SQL - Elementi più avanzati
   
   In  questa lezione  vediamo come  eseguire query  SQL che  calcolano
   funzioni  sulle  colonne  della   tabella:  i  cosiddetti  operatori
