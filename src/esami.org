@@ -19,7 +19,7 @@
   - Appello straordinario (solo orale): 23/4/2018 - 11.00 - Ufficio del docente
   - Terzo appello scritto: 11/6/2018 - 9.00-14.00 - Aula 2 CU002   [[file:docs/risultatiscritto.2018.06.11.pdf][(risultati)]]
   - Quarto appello scritto: 23/7/2018 - 9.00-14.00 - Aula 2 CU002  [[file:docs/risultatiscritto.2018.07.23.pdf][(risultati)]]
-  - Quinto appello scritto: 17/9/2018 - 9.00-14.00 - Aula 2 CU002
+  - Quinto appello scritto: 17/9/2018 - 9.00-14.00 - Aula 2 CU002  [[file:docs/risultatiscritto.2018.09.17.pdf][(risultati)]]
 
   All'esame  orale   lo  studente   dovrà  portare  un   esercizio  di
   programmazione Python/SQL che sarà  testato con degli input segreti.
